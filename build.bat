@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=orm.jar -DgroupId=orm -DartifactId=orm -Dversion=1.4 -Dpackaging=jar
